@@ -1,0 +1,12 @@
+/resume-website
+  ├── index.html
+  ├── about.html
+  ├── skills.html
+  ├── interests.html
+  ├── education.html
+  ├── internships.html
+  ├── projects.html
+  ├── social.html
+  ├── contact.html
+  ├── styles.css
+  └── script.js
