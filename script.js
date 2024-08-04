@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const interestsSection = document.querySelector('#interests');
   if (interestsSection) {
     const toggleInterestsBtn = document.createElement('button');
-    toggleInterestsBtn.textContent = 'Toggle Interests';
+    toggleInterestsBtn.textContent = 'Hide Interests';
     interestsSection.parentNode.insertBefore(toggleInterestsBtn, interestsSection);
 
     toggleInterestsBtn.addEventListener('click', () => {
