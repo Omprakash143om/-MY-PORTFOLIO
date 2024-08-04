@@ -121,6 +121,15 @@ footer a:hover {
   text-decoration: underline;
 }
 
+/* Profile Image */
+.profile-image {
+  width: 150px; /* Adjust the width as needed */
+  height: auto;
+  border-radius: 50%; /* Makes the image circular */
+  display: block;
+  margin: 0 auto; /* Centers the image horizontally */
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   nav ul {
